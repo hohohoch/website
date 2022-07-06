@@ -1,0 +1,75 @@
+@font-face{
+    font-family:"Meows-VGWjy";
+    
+    src: local("Meows-VGWjy"), url("C:\Users\ayaz1\Desktop\Meows-VGWjy.woff") format("woff"), url("C:\Users\ayaz1\Desktop\NotoSansThai-Regular.woff") format("woff")
+
+}
+body {
+    font-family:"Meows-VGWjy","NotoSansThai-Regular", sans-serif;
+   
+  }
+
+.h{
+    color:rebeccapurple ;
+    position: relative;
+    top:-110px;
+    
+    
+}
+h3{
+    
+    margin-top: 9cm;
+    text-align:right;
+}
+pre{
+    
+    text-align:right;
+    font-size:13px;
+    background-color: coral;
+}
+a{
+    text-align:right;
+    font-size:13px ;
+
+}
+.img2{
+    position: relative;
+  top:-542px;
+}
+.kap{
+    text-align: center;
+    position: relative;
+  top:-866px;
+  left: 90px;
+  margin-right: 700px;
+  margin-left: -100px;
+    
+}
+.kap2{
+    position: relative;
+  top:-865px;
+    text-align: left;
+}
+.rt{
+    position: relative;
+    top:-847px;
+      text-align: left;
+   
+}
+.tr{
+    margin-left: 16cm;
+    text-align: center;
+    background-color: coral;
+    
+}
+.knopka{
+  background-color: coral;
+  position: relative;
+  top:-847px;
+}
+.knopka2{
+  background-color: coral;
+  position: relative;
+  top:-847px;
+  left: 960px;
+}
